@@ -1,6 +1,11 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  my_hash = {
+    "James Smith" => ["jamessmith@gamil.com", "123 3rd Ave, San Francisco, CA 94706", "415-123-4567"], 
+    "Sam Doe" => ["samdoe@gamil.com", "789 5th Ave, Oakland, CA 94707", "510-123-4567"]
+    }
+  
+  
   
 end
 
