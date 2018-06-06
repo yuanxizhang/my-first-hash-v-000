@@ -4,9 +4,6 @@ def my_hash
     "James Smith" => ["jamessmith@gamil.com", "123 3rd Ave, San Francisco, CA 94706", "415-123-4567"], 
     "Sam Doe" => ["samdoe@gamil.com", "789 5th Ave, Oakland, CA 94707", "510-123-4567"]
     }
-  
-  
-  
 end
 
 
